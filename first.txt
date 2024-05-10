@@ -1,2 +1,3 @@
 clear text
 new text
+3 to test2
