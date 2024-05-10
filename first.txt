@@ -1,3 +1,7 @@
 clear text
 new text
+<<<<<<< HEAD
 3 to test2
+=======
+3 text
+>>>>>>> fa1fda2d790461f4f506cc0b61ccd9d456018b07
